@@ -1,4 +1,4 @@
-import "./styles.css";
+import "styles.css";
 const mainbtn = document.getElementById("mainbut");
 const scored = document.getElementById("score");
 const upgrade = document.getElementById("Upgrades");
